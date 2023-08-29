@@ -1,1 +1,2 @@
-# AZUBI-CAPSTONE-PROJECT
+# IncomePredictionZindziProject
+Cap-Stone PROJECT
